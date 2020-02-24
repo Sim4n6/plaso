@@ -6,6 +6,7 @@ This page contains some scribbles about events. It contains information about:
 * How can an event be defined?
 * How are events defined in plaso?
 
+.. _what-is-an-event:
 ## What is an event?
 From [Wikipedia - Event (computing)](http://en.wikipedia.org/wiki/Event_%28computing%29)
 
